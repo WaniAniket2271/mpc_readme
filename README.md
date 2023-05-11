@@ -9,7 +9,9 @@ The field of mobile and pervasive computing has seen advancements in smartphone 
 
 ## Design and Architecture
 Frontend : 
+<div>
 <img src="frontend.jpg" width=10% height=10%/>
+</div>
 
 
 Godot Objects :
