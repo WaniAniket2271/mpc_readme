@@ -15,10 +15,10 @@ Frontend :
 
 Godot Objects :
 <div align="center">
-  <img src="cube_object.jpg" />
+  <img src="cube_object.png" />
 </div>
 <div align="center">
-  <img src="chair_object.jpg" />
+  <img src="chair_object.png" />
 </div>
 
 
