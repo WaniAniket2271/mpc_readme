@@ -10,7 +10,7 @@ The field of mobile and pervasive computing has seen advancements in smartphone 
 ## Design and Architecture
 Frontend : 
 <div>
-<img src="frontend.jpg" width=10% height=10%/>
+<img src="frontend.jpg" width=25% height=25%/>
 </div>
 
 
