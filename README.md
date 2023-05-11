@@ -13,8 +13,12 @@ Frontend :
 
 
 Godot Objects :
+<div>
 <img src="cube_object.png" width=50% height=50%/>
+</div>
+<div>
 <img src="chair_object.png" width=50% height=50%/>
+</div>
 
 
 
